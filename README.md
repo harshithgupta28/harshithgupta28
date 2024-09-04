@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshithgupta28
+- 👋 Hi, I’m harshith
 - 👀 I’m interested in coding and learning new tech
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on 
